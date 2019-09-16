@@ -4,6 +4,7 @@
     - React
     - Redux
     - Axios
+    - Webpack
     - Less
 - Backend
     - Nodejs
