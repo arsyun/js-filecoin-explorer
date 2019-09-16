@@ -1,13 +1,19 @@
 # js-filecoin-explorer
 
-- front
-    - React
-    - Redux
-    - Axios
-    - Webpack
-    - Less
-- Backend
-    - Nodejs
-    - Express
-    - Axios
-    - Mongodb
+- Usage
+    - npm install
+    - npm run build
+    - npm start
+
+- Code
+    - front
+        - React
+        - Redux
+        - Axios
+        - Webpack
+        - Less
+    - Backend
+        - Nodejs
+        - Express
+        - Axios
+        - Mongodb
