@@ -12,6 +12,7 @@
         - Axios
         - Webpack
         - Less
+        - Storybook
     - Backend
         - Nodejs
         - Express
