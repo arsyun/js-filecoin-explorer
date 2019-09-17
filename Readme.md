@@ -12,7 +12,8 @@
         - Axios
         - Webpack
         - Less
-        - Storybook
+        - Storybook (类似antd的前端UI框架)
+        - amCharts (地图组件的组件库)
     - Backend
         - Nodejs
         - Express
