@@ -14,6 +14,7 @@
         - Less
         - Storybook (类似antd的前端UI框架)
         - amCharts (地图组件的组件库)
+        - Snap-SVG（svg绘制库）
     - Backend
         - Nodejs
         - Express
