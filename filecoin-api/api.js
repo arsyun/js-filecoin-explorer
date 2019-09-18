@@ -7,4 +7,5 @@ const fc = Filecoin({
 exports.getDefalutAddress = async function() { 
         const addr = await fc.address.default()
         console.log(addr)
+        return addr
 }; 
