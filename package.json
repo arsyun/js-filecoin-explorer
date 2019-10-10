@@ -7,6 +7,8 @@
     "build": "webpack --progress --watch --mode development"
   },
   "dependencies": {
+    "@amcharts/amcharts4": "^4.6.9",
+    "amcharts": "^3.14.5",
     "antd": "^3.23.2",
     "babel-preset-es2015": "^6.24.1",
     "cookie-parser": "~1.4.4",

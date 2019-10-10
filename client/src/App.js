@@ -8,6 +8,7 @@ import BestTipset from "./component/BestTipset"
 import StorageCapacity from "./component/StorageCapacity"
 import NetworkUtilization from "./component/NetworkUtilization"
 import Charts from "./component/Charts"
+import Maps from "./component/Maps"
 import Detail from "./Detail"
 
 
@@ -78,6 +79,9 @@ export default class index extends React.Component{
                     </div>
                     <div style={{ background: '#fff', padding: 24, minHeight: 280,marginTop:20 }}>
                         <Charts/>
+                    </div>
+                    <div style={{ background: '#fff', padding: 24, minHeight: 280,marginTop:20 }}>
+                        <Maps/>
                     </div>
                 </Content>
                 <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
